@@ -1,0 +1,5 @@
+top                    80
+35 fail                60
+36-59 3rd class        500
+60-79 2nd class        200
+80-100 1st class       240
